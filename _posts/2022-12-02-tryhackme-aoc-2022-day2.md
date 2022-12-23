@@ -65,6 +65,7 @@ The word List stands out to me here and I immediately want to narrow down my sea
  
 I tested santalist.txt into the answer box and found:
 ![img6](https://drive.google.com/uc?id=1csEWgzp9vOpF8arsO2QHE4f5oHBToquU)
+![img7](https://drive.google.com/uc?id=1EOoRqRj-1FkB6w0yk5JEqtnGA42c4sqg)
 
 # Question 6:
 **Look through the log files for the flag. The format of the flag is: THM{}**
@@ -73,7 +74,7 @@ On to the last task, locate the flag. Once again I turned to grep for this task.
 < grep “THM{“ webserver.log > – No matches. 
 I then ran the same query but now on the second log file, SSHD.log
 < grep “THM{“ webserver.log > - Flag located.
-![img7](https://drive.google.com/uc?id=1EOoRqRj-1FkB6w0yk5JEqtnGA42c4sqg)
+![img8](https://drive.google.com/uc?id=1xm4b9Yjn6VDfqVY1oux9DMOjiXS9dIxZ)
 
  
 
