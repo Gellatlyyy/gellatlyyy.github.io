@@ -8,10 +8,11 @@ image: >-
   https://tryhackme.com/img/events/christmas/aoc4-wallpaper-2.png
 optimized_image: >-
   https://tryhackme.com/img/events/christmas/aoc4-wallpaper-2.png
-category: blog
+category: challenge
 tags:
-  - welcome
-  - blog
+  - AOC2022
+  - TryHackMe
+  
 author: Cameron Gellatly
 paginate: true
 ---

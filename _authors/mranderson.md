@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: https://pbs.twimg.com/profile_images/1605794998191943681/uNQH7L8I_400x400.jpg
+photo: https://pbs.twimg.com/profile_images/1606164554894884865/q_ADsNUX_400x400.jpg
 name: Cameron Gellatly
 display_name: Cameron Gellatly
 position: Website Host
