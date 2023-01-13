@@ -4,8 +4,8 @@ layout: post
 title: The Importance of Cybersecurity for Small to Medium Businesses.
 subtitle: Explaining The Importance of Cybersecurity for Small to Medium Businesses.
 description: Explaining The Importance of Cybersecurity for Small to Medium Businesses.
-image: https://www.spiretech.com/wp-content/uploads/2020/12/taking-responsibility-for-cyber-security-truly-virtual-world-1024x440-1.jpeg
-optimized_image: https://www.spiretech.com/wp-content/uploads/2020/12/taking-responsibility-for-cyber-security-truly-virtual-world-1024x440-1.jpeg
+image: https://t3.ftcdn.net/jpg/03/74/41/40/360_F_374414072_jNUa02RudGjOdFUHYMes3zNxGMJDAi1k.jpg
+optimized_image: https://t3.ftcdn.net/jpg/03/74/41/40/360_F_374414072_jNUa02RudGjOdFUHYMes3zNxGMJDAi1k.jpg
 category: blog
 tags:
   - Cyber Security 
