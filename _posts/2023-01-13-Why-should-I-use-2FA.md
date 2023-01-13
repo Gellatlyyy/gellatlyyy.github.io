@@ -1,5 +1,5 @@
 ---
-date: 2018-11-22 12:26:40
+date: 2023-01-13T01:00:00.000Z
 layout: post
 title: What is 2FA and why should you care?
 subtitle: Explaining 2FA and its purpose in an organisation.
