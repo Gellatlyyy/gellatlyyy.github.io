@@ -4,9 +4,8 @@ layout: post
 title: Common IT Concepts Explained for End-Users.
 subtitle: Explaining commonly used terms in IT.
 description: Explaining commonly used terms by IT professionals.
-image: https://images.theconversation.com/files/353976/original/file-20200821-22-1wc5pqv.jpg?ixlib=rb-1.1.0&rect=0%2C215%2C5760%2C3612&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip
-optimized_image: https://images.theconversation.com/files/353976/original/file-20200821-22-1wc5pqv.jpg?ixlib=rb-1.1.0&rect=0%2C215%2C5760%2C3612&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip
-category: blog
+image: https://www.springwise.com/wp-content/uploads/2019/02/Tech_Explained_Dark_Data_Springwise.jpg
+optimized_image: https://www.springwise.com/wp-content/uploads/2019/02/Tech_Explained_Dark_Data_Springwise.jpg
 tags:
   - RDP
   - Remote Desktop
