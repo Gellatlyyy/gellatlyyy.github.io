@@ -3,7 +3,7 @@ date: 2018-11-22 12:26:40
 layout: post
 title: What is 2FA and why should you care?
 subtitle: Explaining 2FA and its purpose in an organisation.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: Explaining to an end-user why 2FA is important.
 image: https://media.cybernews.com/images/featured/2021/08/shutterstock_1929254936.jpg
 optimized_image: https://media.cybernews.com/images/featured/2021/08/shutterstock_1929254936.jpg
 category: blog
