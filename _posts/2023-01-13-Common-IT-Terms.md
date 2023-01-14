@@ -6,6 +6,7 @@ subtitle: Explaining commonly used terms in IT.
 description: Explaining commonly used terms by IT professionals.
 image: https://www.springwise.com/wp-content/uploads/2019/02/Tech_Explained_Dark_Data_Springwise.jpg
 optimized_image: https://www.springwise.com/wp-content/uploads/2019/02/Tech_Explained_Dark_Data_Springwise.jpg
+category: blog
 tags:
   - RDP
   - Remote Desktop
