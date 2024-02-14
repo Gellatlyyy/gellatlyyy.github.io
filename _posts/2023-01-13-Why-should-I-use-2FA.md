@@ -1,7 +1,7 @@
 ---
 date: 2023-01-13T01:00:00.000Z
 layout: post
-title: What is 2FA and why should you care?
+title: What is 2FA? Why should you care?
 subtitle: Explaining 2FA and its purpose in an organisation.
 description: Explaining to an end-user why 2FA is important.
 image: https://media.cybernews.com/images/featured/2021/08/shutterstock_1929254936.jpg
