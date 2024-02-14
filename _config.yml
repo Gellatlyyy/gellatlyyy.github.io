@@ -3,14 +3,20 @@ name: CGme
 title: CGme
 description: A Documentation Website for Personal Projects and Endeavours.
 tags:
-  - blog 
+  - blog
+  - digital forensics
+  - incident response 
   - documentation
   - projects
   - tryhackme
+  - hack the box
   - penetration testing
   - red team
   - blue team
   - vulnerability analysis
+  - firewall
+  - security
+  - cyber security
 show_hero: true
 menu:
   - title: Home
